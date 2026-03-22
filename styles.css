@@ -1,0 +1,28 @@
+#helafelamarhead,#head
+{
+    font-family: "Tajawal", sans-serif;
+    text-align: center;
+}
+body {
+  background-color: #121212;
+  color: #ffffff;
+  font-family: 'Tajawal', sans-serif;
+}
+.arabictext
+{
+    font-family: "Tajawal", sans-serif;
+    text-align: right !important;
+}
+.spacer {
+  border: none;*/
+  height: 30px;
+}
+#naga7
+{
+    text-align: center !important;
+}
+#footer
+{
+    text-align: center !important;
+
+}
